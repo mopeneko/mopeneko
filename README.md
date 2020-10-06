@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Avatar](https://github.com/mopeneko.png)
+
+Anime | Game(FPS / Music Video Game) | Installing OS(Gentoo Linux / Arch Linux) | Web Programming
+
+### Skills
+
+- Go
+- Python
+- Vue
+- TypeScript
+
+### Favorite Memes
+
+- 全てを知ってしまった猫
+- Nyan Cat
+
+### Stats
+
+![Langs](https://github-readme-stats.vercel.app/api/top-langs?username=mopeneko&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=mopeneko&theme=tokyonight)
